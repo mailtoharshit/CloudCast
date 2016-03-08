@@ -21,14 +21,14 @@ Simple copy-paste this css on your html or visualforce pages
 
 ### Regular minified CSS 
 
-    '<link rel="stylesheet" type="text/css" href="https://github.com/mailtoharshit/CloudCast/blob/master/src/salesforce-lightning-design-system-1.0.0/assets/styles/salesforce-lightning-design-system.min.css">'
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/mailtoharshit/CloudCast/master/src/salesforce-lightning-design-system-1.0.0/assets/styles/salesforce-lightning-design-system.min.css">
 
 
 ### Scopped minified CSS for Visualforce
 
-    '<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/mailtoharshit/CloudCast/master/src/salesforce-lightning-design-system-1.0.0/assets/styles/salesforce-lightning-design-system-vf.min.css">'
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/mailtoharshit/CloudCast/master/src/salesforce-lightning-design-system-1.0.0/assets/styles/salesforce-lightning-design-system-vf.min.css">
 
 
 ### Scopped minified CSS for Lightning Components
 
-    '<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/mailtoharshit/CloudCast/master/src/salesforce-lightning-design-system-1.0.0/assets/styles/salesforce-lightning-design-system-ltng.min.css">'
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/mailtoharshit/CloudCast/master/src/salesforce-lightning-design-system-1.0.0/assets/styles/salesforce-lightning-design-system-ltng.min.css">
