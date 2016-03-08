@@ -1,6 +1,3 @@
-# Cloud Cast
-Content Delivery Network (CDN) for Salesforce Lightning Design System
-
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/CloudCast/master/src/images/cloudcast.png" align="center" width="1200">
 
