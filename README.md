@@ -32,3 +32,11 @@ Simple copy-paste this css on your html or visualforce pages
 ### Scopped minified CSS for Lightning Components
 
     <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/mailtoharshit/CloudCast/master/src/salesforce-lightning-design-system-1.0.0/assets/styles/salesforce-lightning-design-system-ltng.min.css">
+
+### Importing Salesforce Regular Fonts
+
+    https://github.com/mailtoharshit/CloudCast/blob/master/src/salesforce-lightning-design-system-1.0.0/fonts/SalesforceSans-Light.woff2?raw=true
+
+### Importing Salesforce Light Fonts
+
+    https://github.com/mailtoharshit/CloudCast/blob/master/src/salesforce-lightning-design-system-1.0.0/fonts/SalesforceSans-Regular.woff2?raw=true
